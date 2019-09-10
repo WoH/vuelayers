@@ -1,4 +1,4 @@
-import { createTileUrlFunction } from 'ol-tilecache'
+import { createTileUrlFunction } from 'ol-tilecache/src'
 import { observableFromOlEvent } from '../rx-ext'
 import {
   CACHE_SIZE,
