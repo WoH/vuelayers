@@ -144,7 +144,6 @@ $RECYCLE.BIN/
 /test/e2e/reports
 /test/unit/coverage
 /dist
-/lib
 /dist-docs
 /out
 /docs/releases
